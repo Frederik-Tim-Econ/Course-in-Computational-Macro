@@ -2,7 +2,7 @@ import numpy as np
 import Tools as tools
 import scipy.optimize as optimize
 
-def solve(par): # Solves the model using backwards induction and a numerical solver
+def solve(par): # Solves the model  
     # Preallocating
     Vstar = np.zeros([par['T'],par['gridsize_w']])
     Cstar = np.zeros([par['T'],par['gridsize_w']])
