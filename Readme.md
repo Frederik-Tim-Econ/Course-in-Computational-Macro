@@ -5,7 +5,7 @@ By [Frederik Bjørn Christensen](https://www.cbs.dk/en/research/departments-and-
 Short Description
 ---------------------
 * Lecture 1: A Deterministic General-Equilibrium Life-cycle Model
-	* This lecture numerically solves a canonical multiperiod overlapping-generations model in general equilibrium.
+	* This lecture numerically solves a deterministic multiperiod overlapping-generations model in general equilibrium.
 	* In excerise 1 you are asked to introduce a pension scheme to the model (Solutions are provided).
 * Lecture 2: Dynamic Transition Path
 	* This lecture solve for the transition path from a pre to a post-shock steady state.
