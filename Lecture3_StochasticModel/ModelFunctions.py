@@ -47,6 +47,7 @@ def objective(c_guess,par,t,w,Vstar_plus):
 
 
 def simulation(par,Cstar):# Simulation of the model
+    
     # Setting the seed
     np.random.seed(2021)
     
